@@ -1,17 +1,10 @@
-site_name: "My Projects"
-site_description: "Academic project portfolio"
-site_author: "Your Name"
-repo_url: "https://github.com/yourusername/your-repo"
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - Projects:
-      - Project 1: projects/project1.md
-  - About: about.md
-plugins:
-  - search
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/yourusername
+# Welcome
+
+This site collects my academic projects, papers, and reproducible code.
+
+## Featured
+- [Project 1](projects/project1.md) — short one-line summary.
+
+## How to use this site
+- Browse Projects → find details, downloads, and code.
+- Use the search box (top-right) to search project titles and content.
